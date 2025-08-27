@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello
 
-<!--
-**datafreezone/datafreezone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work spans strategy, architecture and delivery.
 
-Here are some ideas to get you started:
+## What I Do
+- Guide the development of services in regulated environments
+- Oversee identity, compliance and governance practices
+- Connect platforms and data sources to support business goals
+- Provide insights through measurement and monitoring
+- Evaluate emerging technologies responsibly
+- Streamline processes and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Guiding Principles
+- Start with clear objectives, risks and models
+- Use modular solutions that can scale up or down
+- Embed security, accessibility and privacy from the outset
+- Adopt continuous measurement and feedback loops
+- Document decisions alongside the work
+
+## Working Style
+- Centralise information to create clear dashboards
+- Automate intake and classification of materials
+- Integrate systems through well‑defined interfaces
+- Use repeatable patterns for workflows
+- Enable experimentation within guardrails
+
+Open to discussions and feedback.
